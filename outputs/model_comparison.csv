@@ -1,0 +1,5 @@
+Model,CV F1,Test Accuracy,Precision,Recall,F1-score
+Logistic Regression,0.672,0.734,0.603,0.704,0.65
+KNN (k=11),0.611,0.734,0.633,0.574,0.602
+Decision Tree,0.637,0.708,0.556,0.833,0.667
+Random Forest,0.697,0.721,0.58,0.741,0.65
